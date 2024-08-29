@@ -1,0 +1,27 @@
+{
+    "name": "edrm-hello-world-ts",
+    "version": "0.2.0",
+    "description": "endurance module : hello world with typescript example",
+    "main": "none",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/florianduport/edrm-hello-world.git"
+    },
+    "author": "florianduport",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/florianduport/edrm-hello-world/issues"
+    },
+    "homepage": "https://github.com/florianduport/edrm-hello-world#readme",
+    "dependencies": {
+        "endurance-core": "^0.1.25",
+        "express": "^4.19.2",
+        "mongoose": "^8.5.2"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.21"
+    }
+}
